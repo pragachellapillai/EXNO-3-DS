@@ -31,8 +31,9 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+      [Ex no3 (1).pdf](https://github.com/pragachellapillai/EXNO-3-DS/files/14818861/Ex.no3.1.pdf)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+           Hence performing Feature Encoding and Transformation process is Successful.
 
        
